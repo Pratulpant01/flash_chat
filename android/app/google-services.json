@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331586876032",
+    "project_id": "flash-chat-fe10a",
+    "storage_bucket": "flash-chat-fe10a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331586876032:android:d387feea9c9bf716c42c65",
+        "android_client_info": {
+          "package_name": "com.pratul.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331586876032-lt97723cliea205fk32c2cg9in8egf9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrWAzZYW1_gAg8QwtTmDBG_s99z7RimFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331586876032-lt97723cliea205fk32c2cg9in8egf9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
